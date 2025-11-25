@@ -1,0 +1,31 @@
+# Compiled object files
+*.o
+*.obj
+
+# Compiled binary
+*.exe
+*.out
+*.bin
+
+# Code::Blocks build folders
+bin/
+obj/
+
+# Code::Blocks project files auto-generated
+*.depend
+*.layout
+
+# macOS junk (caso use no futuro)
+.DS_Store
+
+# Backup files
+*~
+*.bak
+
+# Logs
+*.log
+
+# Temporary files
+tmp/
+temp/
+
