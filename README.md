@@ -27,6 +27,20 @@ O programa permite escolher:
 
 O resultado final é um “retrato falado” gerado em texto.
 
----
+## 4. Dependências
+- GCC ou compilador compatível com ANSI C
+- Terminal para execução
+- Opcional: Code::Blocks (IDE utilizada no curso)
 
-## 4. Estrutura do Projeto
+## 5. Funcionamento
+O programa apresenta menus sequenciais.  
+Após todas as escolhas, ele gera:
+- Nome completo do monstro (Família + Tipo)
+- Descrição das características faciais
+- Cor predominante
+- Resultado final do monstro derivado
+
+## 6. Autor
+Handersen Monteiro  
+Disciplina: Algoritmos / Pensamento Computacional  
+Projeto prático em linguagem C
